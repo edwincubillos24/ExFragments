@@ -5,18 +5,4 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-    <ImageView
-        android:layout_width="fill_parent"
-        android:layout_height="0dp"
-        android:src="@drawable/logo"
-        android:layout_gravity="center_horizontal"
-        android:layout_weight="1"
-        />
-    <fragment android:name="com.example.exfragments.Flash"
-        android:id="@+id/fragment"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_weight="1"
-        tools:layout="@layout/fragment_flash" />
 </LinearLayout>
