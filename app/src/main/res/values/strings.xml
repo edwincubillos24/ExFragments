@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExFragments</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Flash">Flash</string>
+    <string name="Poderes">Super speed, intangibility, superhuman agility</string>
+</resources>
